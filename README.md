@@ -9,5 +9,10 @@ Sem 5
  CT601-N (Artificial Intelligence)
  CE602-N (Python Programming)
  CE603-N (Cryptography and Network Security)
+ CS501-N (Data Science using Python Programming)
+ CT506A-N (Advance Java Programming)
+ CT506B-N (Advanced Computer Architecture)
+ CT506D-N (Optimization Techniques)
+ CE506E-N (Computer Graphics)
 
  
